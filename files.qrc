@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>mic.svg</file>
+    <file>mic.png</file>
+  </qresource>
+</RCC>
