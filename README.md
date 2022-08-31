@@ -1,4 +1,5 @@
 # VoiceTranslator
+###### BMSTU project
 Voice translator (english-russian) with Google Translate API and Qt Designer form
 
 Screenshot example:
